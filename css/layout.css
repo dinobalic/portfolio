@@ -100,6 +100,12 @@ h3 {
   font-size: 22px;
 }
 
+h3.left {
+  font-size: 22px;
+  margin: 20px 0 15px;
+  text-align: left;
+}
+
 h4 {
   font-size: 22px;
 }
@@ -126,6 +132,7 @@ h4 {
 :focus {
   outline: none;
 }
+
 
 /* Section Seperator */
 .section-seperator {
@@ -295,6 +302,7 @@ fieldset[disabled] .btn-theme {
 .promo-block {
   padding: 220px 0 130px;
 }
+
 
 .promo-block .promo-block-title {
   font-size: 70px;
